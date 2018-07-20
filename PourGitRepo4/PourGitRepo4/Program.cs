@@ -11,8 +11,7 @@ namespace PourGitRepo4
         static void Main(string[] args)
         {
             Console.WriteLine("Test repo 3");
-            Console.WriteLine("version 1");
-            Console.WriteLine("by Jak");
+            Console.WriteLine("version 2");
 
             Console.Read();
         }
