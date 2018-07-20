@@ -13,7 +13,7 @@ namespace PourGitRepo4
             Console.WriteLine("Test repo 3");
             Console.WriteLine("version 2");
             Console.WriteLine("Mais non c'est la 3");
-            Console.WriteLine("Mais fichtre");
+            Console.WriteLine("Mais fichtre de");
             Console.Read();
         }
     }
